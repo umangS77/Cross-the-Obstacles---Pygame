@@ -9,3 +9,5 @@ Crossing a fixed obstacle gives 5 points.
 Crossing a moving obstacle gives 10 points.
 Reaching the end gives 50 extra points.
 The given runs for the specific amount of time, as specified in the config.py file.
+
+To start the game, execute the file main.py
