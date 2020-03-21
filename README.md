@@ -11,3 +11,5 @@ Reaching the end gives 50 extra points.
 The given runs for the specific amount of time, as specified in the config.py file.
 
 To start the game, execute the file main.py
+
+Enjoy!
